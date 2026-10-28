@@ -1,0 +1,20 @@
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Local environment variables and credentials
+.env
+.env.*
+!.env.example
+
+# VS Code local settings
+.vscode/
+
+# Databricks bundle local files
+.databricks/
+
+# Local temporary files
+*.log

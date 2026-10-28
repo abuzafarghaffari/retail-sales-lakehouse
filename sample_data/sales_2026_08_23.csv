@@ -1,0 +1,5 @@
+order_id,order_date,customer_name,product,quantity,unit_price,amount,city
+ORD1001,2026-08-23,Amit Sharma,Laptop Stand,2,1200.00,2400.00,Delhi
+ORD1002,2026-08-23,Neha Verma,Wireless Mouse,1,850.00,850.00,Mumbai
+ORD1003,2026-08-23,Rahul Singh,USB-C Hub,3,1500.00,4500.00,Patna
+ORD1004,2026-08-23,Sara Khan,Keyboard,1,2200.00,2200.00,Hyderabad
